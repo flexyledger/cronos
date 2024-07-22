@@ -27,4 +27,18 @@ Cronos is the first Cosmos EVM-compatible chain for DeFi, NFTs, the metaverse, a
 
 **Announcing the Moralis Cronos Web3 Metaverse Hackathon!**
 
-Build gaming metaverse projects and win prizes this summer!
+Build gaming metaverse projects and win prizes this summer! Moralis is hosting the Moralis Cronos Web3 Metaverse Hackathon from **August 20th** to **September 5th**, **2022**.
+
+* Applications are open until **August 15th, 2022**
+* $60,000 in prizes are already on the table, with more to be announced soon
+* Build a gaming, metaverse, or GameFi dapp on the Cronos blockchain using Moralis
+* Qualify as an MVP and demo a working prototype at the end of the event
+
+### Hackathon Overview
+
+* Launch: **August 20th, 2022**
+* End: **September 5th, 2022**
+* Prize pool: at least **$100,000**
+* Register by **August 15th, 2022** to participate
+
+Join the [Moralis Discord](http://moralis.io/discord) to find like-minded collaborators and get started on your project today!
