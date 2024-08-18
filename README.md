@@ -42,3 +42,41 @@ Build gaming metaverse projects and win prizes this summer! Moralis is hosting t
 * Register by **August 15th, 2022** to participate
 
 Join the [Moralis Discord](http://moralis.io/discord) to find like-minded collaborators and get started on your project today!
+
+<!-- Add license code
+
+-->
+
+<!-- Changelogs 
+# 📜 Changelogs
+
+<!-- Background github cover with short introduction down below 
+
+
+# README
+
+> [!NOTE]
+> Sample only bala ka sa buhay mo
+
+> [!TIP]
+>  Ey ka muna Ey Eyy
+> Add Contribution
+> Add comment
+
+> [!IMPORTANT]
+> Crucial Important deep shit
+
+> [!WARNING]
+> Mama mo warning
+> Papa mo warning
+
+> Will create table
+> And Topic
+> Partial code only
+> Idol Luka
+> Hello nothing to edit for now
+> Implement blockchain soon 
+> No code for today
+> Will do this in weekend
+> Will do this later
+-->
